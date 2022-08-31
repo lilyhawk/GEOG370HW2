@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "class_layer",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "class_id": "Home" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -79.058085726049995, 35.91397532403834 ] ] } },
+{ "type": "Feature", "properties": { "id": 2, "class_id": "Peabody" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -79.053651922691472, 35.910710284057785 ] ] } },
+{ "type": "Feature", "properties": { "id": 3, "class_id": "Campus Y" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -79.051244823242072, 35.911329012045108 ] ] } },
+{ "type": "Feature", "properties": { "id": 4, "class_id": "Dey Hall" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -79.050566281692838, 35.909938915494415 ] ] } },
+{ "type": "Feature", "properties": { "id": 5, "class_id": "Hill Hall" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -79.053174009999722, 35.912562836973336 ] ] } },
+{ "type": "Feature", "properties": { "id": 7, "class_id": "Carolina" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -79.05017079020385, 35.911184899291534 ] ] } }
+]
+}
