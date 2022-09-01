@@ -6,3 +6,10 @@ img {display: block;margin-left: auto;margin-right: auto;width: 50%;}
 body {
  background-color: darkseagreen;
 }
+
+p {
+  margin-left: auto;
+  margin-bottom: auto;
+}
+
+h2 {margin-left: auto; }
